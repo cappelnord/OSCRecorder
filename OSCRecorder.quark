@@ -1,0 +1,10 @@
+(
+  name: "OSCRecorder",
+  schelp: "OSCRecorder",
+  summary: "Simple OSC recorder GUI for SuperCollider",
+  version: "1.0.0",
+  schelp: "OSCRecorder",
+  dependencies: [],
+  license: "GPL",
+  author: "Patrick Borgeat"
+)

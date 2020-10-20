@@ -1,0 +1,12 @@
+title:: OSCRecorder
+summary:: Simple OSC recorder GUI for SuperCollider
+categories:: Libraries>OSCRecorder
+
+DESCRIPTION::
+Not much is written here yet. For simply using it not much has to be written hopefully!
+
+code::
+OSCRecorderGUI();
+::
+
+This will open the OSCRecorderGUI which can be used for recording and playing back OSC streams. The streams are stored in an ASCII format for easy parsing or manual editing.
